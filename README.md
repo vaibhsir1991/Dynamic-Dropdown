@@ -7,7 +7,7 @@ Implement a dynamic dropdown in react
 
 ### Please follow the below steps for installation :
 
-1. Download the project form GIT : https://github.com/vaibhsir1991/Shuffle-Sort
+1. Download the project form GIT : https://github.com/vaibhsir1991/Dynamic-Dropdown
 5. Run command "npm install"
 6. Run command "npm start"
 7. Go to http://localhost:3000
